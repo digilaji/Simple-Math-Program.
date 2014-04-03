@@ -23,7 +23,13 @@ public class Maths {
       x = in.nextInt();
       y = in.nextInt();
       z = x + y;
+      j = X - y;
+      f = x / y;
+      s = x * y;
       System.out.println("Sum of entered integers = "+z);
+       System.out.println("Subtraction of entered integers = "+j);
+        System.out.println("division of entered integers = "+f);
+         System.out.println("multiplication of entered integers = "+s);
     }
     
 }
