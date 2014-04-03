@@ -30,6 +30,8 @@ public class Maths {
        System.out.println("Subtraction of entered integers = "+j);
         System.out.println("division of entered integers = "+f);
          System.out.println("multiplication of entered integers = "+s);
+         
+         /* YOU ARE JUST TOO AWESOME DIGIL AJI ... I SHALL CALL YOU AWESOMUS MAXIMUS HENCFORTH*/
     }
     
 }
